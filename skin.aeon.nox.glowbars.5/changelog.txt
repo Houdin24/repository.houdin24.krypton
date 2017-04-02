@@ -1,3 +1,8 @@
+[B]1.0.0[/B]
+- Added option to replace default info with extended info
+
+============
+
 [B]5.9.4[/B]
 - Fix broken addon settings - thx MikeSILVO
 - Add LibreELEC settings screen.

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
 <addon id="skin.aeon.nox.glowbars.5"
-       version="6.0.8-1.0.2"
+       version="1.0.0"
        name="Aeon Nox Glowbars"
        provider-name="BigNoid, Themes by H24">
   <requires>
@@ -12,9 +12,10 @@
     <import addon="resource.images.studios.white" version="0.0.1"/>
     <import addon="resource.images.recordlabels.white" version="0.0.1"/>
   </requires>
-  <extension point="xbmc.gui.skin" debugging="false" effectslowdown="0.75">
+  <extension point="xbmc.gui.skin"
+             debugging="false"
+             effectslowdown="0.75">
     <res width="1920" height="1080" aspect="16:9" default="true" folder="1080i" />
-    <res width="2560" height="1080" aspect="21:9" default="false" folder="1080i" />
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="de">Aeon Nox Glowbars 5: Redux</summary>
@@ -25,8 +26,8 @@
     <summary lang="en_US">Aeon Nox Glowbars 5: Redux</summary>
     <summary lang="es">Aeon Nox Glowbars 5: Redux</summary>
     <summary lang="fi">Aeon Nox Glowbars 5: Redux</summary>
-    <summary lang="fr">Aeon Nox 5 : Redux</summary>
-    <summary lang="fr_CA">Aeon Nox 5 : Redux</summary>
+    <summary lang="fr">Aeon Nox 5: Redux</summary>
+    <summary lang="fr_CA">Aeon Nox 5: Redux</summary>
     <summary lang="gl">Aeon Nox Glowbars 5: Redux</summary>
     <summary lang="he">Aeon Nox Glowbars 5: Redux</summary>
     <summary lang="hu">Aeon Nox Glowbars 5: Redux</summary>
